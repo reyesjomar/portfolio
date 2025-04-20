@@ -1,5 +1,13 @@
 # A Comparative Analysis of Maximalist and Traditional Running Shoes
 
+## Summary
+
+This project examines the biomechanical impact of maximalist versus traditional running shoes by analyzing three key variables: knee varus angle, ankle eversion, and loading rate. The goal was to assess whether maximalist shoes provide measurable benefits in reducing running-related injury risk.
+
+The data showed that maximalist shoes, while offering better shock absorption through a lower loading rate, also resulted in higher knee varus and increased ankle eversion — both of which are associated with greater risk for injuries such as knee joint deterioration, plantar fasciitis, and tendonitis.
+
+Although maximalist shoes feature increased cushioning, this study found no consistent biomechanical advantage over traditional running shoes. The findings suggest that footwear choice should be based on personal comfort, biomechanics, and injury history, rather than assumptions about shoe design.
+
 ## Overview
 Examined whether there is a change in kinematics in relation to the type of shoe: maximalist or traditional an individual wears when running.
 
