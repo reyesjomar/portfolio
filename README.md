@@ -11,7 +11,7 @@ This portfolio includes projects developed through my training, bootcamps, and c
 ### 1. Telecom Reporting Optimization  
 **Tools:** SQL, Excel, Tableau  
 Analyzed ad performance data to improve ROI and ad strategy for a telecom client.  
-[View Project ➜](./telecom-reporting-optimization)
+[View Project ➜](./project-telecom-reporting-optimization)
 
 ### 2. NYC Evictions Analysis  
 **Tools:** Excel, Tableau  
