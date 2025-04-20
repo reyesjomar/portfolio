@@ -21,7 +21,7 @@ Explored trends in NYC evictions and legal possession processes to recommend hou
 ### 3. Maximalist vs. Traditional Running Shoes  
 **Tools:** Excel, Vicon Motion Capture  
 Compared kinematic performance to assess injury risks related to shoe design.  
-[View Project ➜](./project-maximalist-vs-traditional-shoes)
+[View Project ➜](./project-maximalist-vs-traditional-running-shoes)
 
 ---
 
