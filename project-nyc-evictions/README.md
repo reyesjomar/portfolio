@@ -14,8 +14,20 @@ To understand the trends, causes, and geography of NYC evictions, and uncover ho
 
 ## Tools Used
 
-- Google Slides (presentation & visualization)
+- Excel (Data cleaning, filtering, preprocessing)
+- SQL (Querying and aggregating eviction data)
+- Tableau (Visualizing eviction trends and creating heatmaps)
+- Google Slides (Presenting final findings)
+
+---
+
+## Data Sources
 - NYC Open Data (Eviction dataset)
+- LAController.org (LA eviction notices for comparison) 
+
+---
+
+## Supplementary Materials
 - Public records & policy references
 - Qualitative research (news, policy, local trends)
 
@@ -54,7 +66,3 @@ Evictions in NYC are deeply tied to structural issues like economic instability,
 - Expand rent control & rent stabilization laws
 - Enforce stricter penalties for unjust evictions
 - Increase affordable housing access and early intervention support
-
-
-
-
