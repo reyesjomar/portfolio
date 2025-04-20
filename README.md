@@ -16,12 +16,12 @@ Analyzed ad performance data to improve ROI and ad strategy for a telecom client
 ### 2. NYC Evictions Analysis  
 **Tools:** Excel, Tableau  
 Explored trends in NYC evictions and legal possession processes to recommend housing policy strategies.  
-[View Project ➜](./nyc-evictions)
+[View Project ➜](./project-nyc-evictions)
 
 ### 3. Maximalist vs. Traditional Running Shoes  
 **Tools:** Excel, Vicon Motion Capture  
 Compared kinematic performance to assess injury risks related to shoe design.  
-[View Project ➜](./maximalist-vs-traditional-shoes)
+[View Project ➜](./project-maximalist-vs-traditional-shoes)
 
 ---
 
