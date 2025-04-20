@@ -33,7 +33,7 @@ Compared kinematic performance to assess injury risks related to shoe design.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - [LinkedIn](linkedin.com/in/jomarreyes)
 - [GitHub](github.com/reyesjomar)
