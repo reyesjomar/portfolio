@@ -32,7 +32,7 @@ Maximalist shoes reduced loading rate during running (**57.3 BW/s** vs. **75.7 B
 ---
 
 ## Files
-- `maximal-vs-traditional-running-shoes.pdf`
+- `maximal-vs-traditional-running-shoes.pdf` – Final project presentation/report
 
 ---
 
