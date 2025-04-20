@@ -30,4 +30,5 @@ Maximalist shoes reduced loading rate during running (57.3 BW/s vs. 75.7 BW/s in
 While maximalist running shoes are often marketed for their enhanced cushioning and injury-prevention benefits, this analysis found no consistent biomechanical advantage over traditional running shoes. 
 - Knee varus angles and ankle eversion were both higher in maximalist shoes, suggesting a potential increase in injury risk, particularly for the knee joint and lower leg tendons. 
 - However, loading rate was lower in maximalist shoes, indicating better shock absorption during heel strike.
+
 These mixed outcomes highlight that shoe selection should be based on individual biomechanics, comfort, and running habits rather than assuming one shoe type is inherently better. More research and personalized assessments are recommended for long-term injury prevention.
