@@ -6,19 +6,24 @@ This portfolio includes projects developed through my training, bootcamps, and c
 
 ---
 
-## Featured Projects
+## Quicklinks to Projects
 
-### 1. Telecom Reporting Optimization  
+### 1. Workforce & Operational Forecasting
+**Tools:** SQL, Excel  
+Forecasted an 18% labor cost increase for the City of Milpitas by analyzing 3,000+ timesheets and modeling the budget impact of proposed staffing changes.
+[View Project ➜](./project-workforce-operational-forecasting)
+
+### 2. Telecom Reporting Optimization  
 **Tools:** SQL, Excel, Tableau  
 Analyzed ad performance data to improve ROI and ad strategy for a telecom client.  
 [View Project ➜](./project-telecom-reporting-optimization)
 
-### 2. NYC Evictions Analysis  
+### 3. NYC Evictions Analysis  
 **Tools:** SQL, Excel, Tableau  
 Explored trends in NYC evictions and legal possession processes to recommend housing policy strategies.  
 [View Project ➜](./project-nyc-evictions)
 
-### 3. Maximalist vs. Traditional Running Shoes  
+### 4. Maximalist vs. Traditional Running Shoes  
 **Tools:** Excel, Vicon Motion Capture  
 Compared kinematic performance to assess injury risks related to shoe design.  
 [View Project ➜](./project-maximalist-vs-traditional-running-shoes)
